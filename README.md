@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Data science portfolio by Marcel Schneider
 
-You can use the [editor on GitHub](https://github.com/Marcel707/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Stand-alone projects.
 
-### Markdown
+### Red Vinho Wine: What makes a good wine?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Github](https://github.com/Marcel707/Portfolio/blob/master/Notebooks/red_vinho_verde_wine_quality.ipynb)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Marcel707/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Being one of the most common datasets out there my goal with working with it was to utilize different prediction models and to explore the effectivness of the SMOTE algorithm. 
