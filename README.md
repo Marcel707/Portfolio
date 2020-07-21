@@ -8,4 +8,4 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 [Github](https://github.com/Marcel707/Portfolio/blob/master/Notebooks/red_vinho_verde_wine_quality.ipynb)
 
-Being one of the most common used datasets out there my goal is to utilize different prediction models and to explore the effectivness of the SMOTE (Synthetic Minority Oversampling Technique) algorithm for combating the class imbalance between good and bad wine examples. 
+Being one of the most common used datasets out there my goal is to utilize different prediction models and to explore the effectiveness of the SMOTE (Synthetic Minority Oversampling Technique) algorithm for combating the class imbalance between good and bad wine entries.
