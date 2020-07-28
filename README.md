@@ -8,7 +8,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 [nbviewer](https://nbviewer.jupyter.org/github/Marcel707/Portfolio/blob/master/Notebooks/electric_car_charging_station_coverage.ipynb) [Github](https://github.com/Marcel707/Portfolio/blob/master/Notebooks/electric_car_charging_station_coverage.ipynb)
 
-Motivation for this project is to examine the possibilities, which geospatial python packages offer. For that we want to display the areas, which have the best electric car charger stations coverage within the state of Mecklenburg-Western Pomerania.
+Motivation for this project is to examine the possibilities geospatial python packages offer. For that we want to display the areas, which have the best electric car charger stations coverage within the state of Mecklenburg-Western Pomerania.
 
 ### Red Vinho Wine: What makes a good wine?
 
